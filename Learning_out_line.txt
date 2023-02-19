@@ -1,0 +1,11 @@
+the purpose of this folder is to keep track of some of Athenas programming language progress
+Language: Python
+loops: basic
+objects: very basic
+conditionals: basic
+classes: None
+recursion: None
+function: None
+Syntax: limited
+algorythimg: None
+data structure: None
